@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Predicted coverage scores for 2024 winter season (A/H1N1)."
+date:   2024-09-23 15:50:10 -0400
+categories: jekyll update
+---
+
+| Accesion ID                                                                              |     Score | Strain                                   |
+|:-----------------------------------------------------------------------------------------|----------:|:-----------------------------------------|
+| [EPI2927943]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2927943.txt %}) | -0.13225  | A/Hong_Kong/2893/2023 like               |
+| [EPI2496788]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2496788.txt %}) | -0.133246 | A/Valladolid/4861/2023 like              |
+| [EPI2397827]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2397827.txt %}) | -0.143071 | A/Catalonia/NSVH102010046/2023 like      |
+| [EPI2535529]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2535529.txt %}) | -0.151571 | A/Louisiana/04/2023 like                 |
+| [EPI2197061]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2197061.txt %}) | -0.170139 | A/California/136/2022 like               |
+| [EPI2447066]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2447066.txt %}) | -0.172383 | A/Colorado/84/2022 like                  |
+| [EPI2406444]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2406444.txt %}) | -0.190127 | A/Tennessee/RVTNL2862928346885/2022 like |
+| [EPI2562818]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2562818.txt %}) | -0.193543 | A/Victoria/488/2023 like                 |
+| [EPI2397650]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2397650.txt %}) | -0.214663 | A/Brisbane/1/2023 like                   |
+| [EPI2288140]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2288140.txt %}) | -0.219609 | A/England/224740389/2022 like            |
+| [EPI2222875]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2222875.txt %}) | -0.431196 | A/Wisconsin/67/2022 like*                |
+| [EPI2319193]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2319193.txt %}) | -0.444233 | A/Victoria/4897/2022 like*               |
+| [EPI2073543]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2073543.txt %}) | -0.444282 | A/Wisconsin/67/2022 like*                |
+| [EPI2193484]({{ site.baseurl }}{% link assets/files/fasta/2024/a_h1n1/EPI2193484.txt %}) | -0.449961 | A/Victoria/4897/2022 like*               |
+
+\* is the strains recommended by [WHO](https://www.who.int/publications/m/item/recommended-composition-of-influenza-virus-vaccines-for-use-in-the-2024-2025-northern-hemisphere-influenza-season).
