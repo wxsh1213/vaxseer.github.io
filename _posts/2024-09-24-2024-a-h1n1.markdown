@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Predicted coverage scores for 2024 winter season (A/H1N1)."
+date:   2024-09-24 11:56:34 -0400
+categories: jekyll update
+---
+
+| Accesion ID   |     Score | Strain                                   |
+|:--------------|----------:|:-----------------------------------------|
+| EPI2927943    | -0.13225  | A/Hong_Kong/2893/2023 like               |
+| EPI2496788    | -0.133246 | A/Valladolid/4861/2023 like              |
+| EPI2397827    | -0.143071 | A/Catalonia/NSVH102010046/2023 like      |
+| EPI2535529    | -0.151571 | A/Louisiana/04/2023 like                 |
+| EPI2197061    | -0.170139 | A/California/136/2022 like               |
+| EPI2447066    | -0.172383 | A/Colorado/84/2022 like                  |
+| EPI2406444    | -0.190127 | A/Tennessee/RVTNL2862928346885/2022 like |
+| EPI2562818    | -0.193543 | A/Victoria/488/2023 like                 |
+| EPI2397650    | -0.214663 | A/Brisbane/1/2023 like                   |
+| EPI2288140    | -0.219609 | A/England/224740389/2022 like            |
+| EPI2222875    | -0.431196 | A/Wisconsin/67/2022 like*                |
+| EPI2319193    | -0.444233 | A/Victoria/4897/2022 like*               |
+| EPI2073543    | -0.444282 | A/Wisconsin/67/2022 like*                |
+| EPI2193484    | -0.449961 | A/Victoria/4897/2022 like*               |
+
+\* is the strains recommended by [WHO](https://www.who.int/publications/m/item/recommended-composition-of-influenza-virus-vaccines-for-use-in-the-2024-2025-northern-hemisphere-influenza-season).
