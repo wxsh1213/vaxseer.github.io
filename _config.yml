@@ -23,7 +23,7 @@ email: wxsh@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Predicting the prospective effetivness of vaccine strains.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wxsh1213.github.io/vaxseer.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  ""
 
