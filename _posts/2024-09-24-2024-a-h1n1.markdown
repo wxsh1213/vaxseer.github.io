@@ -17,9 +17,9 @@ categories: jekyll update
 | EPI2562818    | -0.193543 | A/Victoria/488/2023 like                 |
 | EPI2397650    | -0.214663 | A/Brisbane/1/2023 like                   |
 | EPI2288140    | -0.219609 | A/England/224740389/2022 like            |
-| EPI2222875    | -0.431196 | A/Wisconsin/67/2022 like*                |
-| EPI2319193    | -0.444233 | A/Victoria/4897/2022 like*               |
-| EPI2073543    | -0.444282 | A/Wisconsin/67/2022 like*                |
-| EPI2193484    | -0.449961 | A/Victoria/4897/2022 like*               |
+| EPI2222875    | -0.431196 | **A/Wisconsin/67/2022 like***                |
+| EPI2319193    | -0.444233 | **A/Victoria/4897/2022 like***               |
+| EPI2073543    | -0.444282 | **A/Wisconsin/67/2022 like***                |
+| EPI2193484    | -0.449961 | **A/Victoria/4897/2022 like***               |
 
 \* is the strains recommended by [WHO](https://www.who.int/publications/m/item/recommended-composition-of-influenza-virus-vaccines-for-use-in-the-2024-2025-northern-hemisphere-influenza-season).
